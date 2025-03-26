@@ -1,1 +1,5 @@
 *.exe
+slicer.buid/*
+slicer.dist/*
+slicer.onefile-buid/*
+sliced/*
