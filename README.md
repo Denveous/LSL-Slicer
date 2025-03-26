@@ -9,6 +9,9 @@ git clone https://github.com/Denveous/LSL-Slicer.git
 cd LSL-Slicer
 ```
 
+2. **Obtain a compiled copy of FFmpeg**
+   Visit the [FFmpeg Homepage](https://ffmpeg.org/) and grab a compiled copy of the ffmpeg windows exe and place it in the folder `rsc` with the python script.
+
 3. **Run the Application**:
    ```python slicer.py --log```
    * The `--log` option enables logging to a file for troubleshooting.
